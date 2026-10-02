@@ -11,3 +11,5 @@ related: [zugspitze-reintal]
 Limestone range above Garmisch-Partenkirchen with the Zugspitze, Germany's highest summit.
 
 Tours: [[zugspitze-reintal]] (done).
+
+More tours (ideas): [[leutascher-geisterklamm]].

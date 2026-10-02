@@ -20,3 +20,5 @@ North faces keep snow longest, south and east faces melt out first ([[aspect]]).
 [[corn-snow]] in the late morning and wet, avalanche-prone snow in the afternoon: start early.
 
 Every winter differs — this vault can't know today's snow depth or the avalanche bulletin.
+
+See also: [[tour-planning-3x3]], [[avalanche-decision-making]].

@@ -11,3 +11,5 @@ related: [zuckerhuetl]
 Range south-west of Innsbruck; the Stubai glacier ski area gives lift access to high tours.
 
 Tours: [[zuckerhuetl]].
+
+More tours (ideas): [[becher]], [[wilder-freiger]], [[hochtennbodensteig]]. Huts: [[becherhaus]], [[sulzenau-hut]], [[nuernberger-hut]], [[birgitzkoepflhaus]].

@@ -13,7 +13,7 @@ difficulty: WS
 best_months: [Apr, May]
 done: null
 sources: [2025-03-02-blog-cevedale-from-pizzini.md]
-related: [ortler-alps, rifugio-pizzini]
+related: [ortler-alps, rifugio-pizzini, similaun-vs-cevedale-late-april]
 ---
 
 # Cevedale (3,769 m)
@@ -22,3 +22,5 @@ One of the great spring tours of the Italian Alps. From the Forni car park to th
 
 - **Snow:** best in April and May, when the days are long and the snow has settled.
 - **Not done yet.**
+- Compared against [[similaun]] for a late-April trip: [[similaun-vs-cevedale-late-april]].
+

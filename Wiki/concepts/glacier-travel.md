@@ -9,3 +9,5 @@ related: [spring-snow]
 # Glacier travel
 
 Glacier tours need rope, harness and crevasse rescue kit, and a party that knows how to use them. Rope up on the ascent; snow bridges weaken in the afternoon. All high tours in this vault cross glaciers (`glacier: true`).
+
+See also: [[avalanche-safety-kit]], [[alpine-emergency]].

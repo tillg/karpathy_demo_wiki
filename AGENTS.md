@@ -1,15 +1,18 @@
 # Instructions for the AI
 
-This vault is a personal knowledge base maintained by an AI. It can hold any number of topics; mountains (ski
-tours and hikes) is the first one. Write everything in English.
+This vault is a personal knowledge base maintained by an AI. It holds several unrelated topics — today
+mountains (ski tours, hikes, via ferratas), coffee, and mathematics (topology) — and more will come. Write
+everything in English.
 
 ## Layout
 
 - `Sources/` — raw material: clipped articles, guidebook excerpts, own trip reports, course notes. **Never edit or
   delete a source.** New sources are named `YYYY-MM-DD-slug.md` (the date the material was added).
 - `Wiki/` — pages you write and keep up to date:
-  - `entities/` — things with a name: `tours/`, `regions/`, `huts/` (later also people, tools, …).
-  - `concepts/` — ideas and principles (e.g. spring snow, aspect).
+  - `entities/` — things with a name, one subfolder per kind: `tours/`, `regions/`, `huts/`, `organizations/`
+    (mountains); `origins/`, `varieties/`, `brewers/` (coffee); `mathematicians/`, `theorems/` (mathematics).
+    Add a new subfolder when a new kind of thing appears.
+  - `concepts/` — ideas and principles of any topic (e.g. spring snow, extraction, homeomorphism).
   - `topics/` — hub pages for a subject area, plus logs such as the tour log.
   - `sources/` — one summary page per file in `Sources/`.
   - `synthesis/` — comparisons and analyses across pages.
@@ -27,11 +30,12 @@ sources: [ ... ]   # files in Sources/ that back this page
 related: [ ... ]   # other wiki pages
 ```
 
-Tour pages add: `kind: tour`, `activity: ski-tour | hike`, `region`, `start_m`, `summit_m`, `aspect`, `glacier`
+Tour pages add: `kind: tour`, `activity: ski-tour | hike | via-ferrata | alpine-tour`, `region`, `start_m`, `summit_m`, `aspect`, `glacier`
 (true/false), `difficulty`, `best_months` (list of three-letter months) and `done` (date of the last time done, or
 `null`). Keep `done` in sync with `Wiki/topics/tour-log.md`.
 
-Link pages with `[[wikilinks]]`. If a page you link to doesn't exist yet, leave the link: it marks a gap.
+Slugs (file names) are unique across the whole wiki, because `[[wikilinks]]` resolve by file name. Link pages
+with `[[wikilinks]]`. If a page you link to doesn't exist yet, leave the link: it marks a gap.
 
 ## Workflows
 
@@ -41,6 +45,8 @@ Link pages with `[[wikilinks]]`. If a page you link to doesn't exist yet, leave 
 - **Answer a question:** start from `Wiki/index.md`, read the relevant pages, answer with `[[links]]` to the pages
   you used. Say what the vault doesn't know. You have no web access: for current conditions (snow, avalanche
   danger, hut opening) tell the user to check the official bulletins.
+- **New topic:** create `Wiki/topics/<topic>.md` as its hub, use the existing folders, add a section to
+  `Wiki/index.md`.
 - **Lint:** report dead links, orphan pages, pages without sources, `done` fields that disagree with the tour log,
   and contradictions; fix only after the user agrees.
 
