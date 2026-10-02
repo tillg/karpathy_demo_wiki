@@ -12,6 +12,7 @@ Catalog of the wiki. Start here. Topics: [[mountains]], [[coffee]], [[mathematic
 
 ## Topics
 
+- [[brew-log]] — Brew log
 - [[coffee]] — Coffee
 - [[hiking]] — Hiking, via ferratas and alpine tours
 - [[mathematics]] — Mathematics

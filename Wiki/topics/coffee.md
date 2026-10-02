@@ -3,7 +3,7 @@ type: topic
 tags: [coffee]
 updated: 2026-10-02
 sources: []
-related: [coffee-ethiopia, coffee-kenya, coffee-brazil, geisha, sl28, bourbon, typica, v60, chemex, aeropress, french-press, espresso-machine, moka-pot, extraction, brew-ratio, grind-size, roast-levels, coffee-processing, water-for-coffee, cupping, which-brewer-for-which-bean]
+related: [coffee-ethiopia, coffee-kenya, coffee-brazil, geisha, sl28, bourbon, typica, v60, chemex, aeropress, french-press, espresso-machine, moka-pot, extraction, brew-ratio, grind-size, roast-levels, coffee-processing, water-for-coffee, cupping, which-brewer-for-which-bean, brew-log]
 ---
 
 # Coffee
@@ -41,3 +41,5 @@ Panama fame).
 **Tasting:** [[cupping]] and the flavour wheel.
 
 **Analysis:** [[which-brewer-for-which-bean]].
+
+**Own brews:** [[brew-log]].

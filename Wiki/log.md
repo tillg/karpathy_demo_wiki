@@ -8,6 +8,12 @@ related: [index]
 
 # Log
 
+## [2026-10-02] new | Coffee: brew log started
+
+- New: [[brew-log]] in `Wiki/topics/` with the first entry: Ethiopian natural on the [[v60]], 1:16.7 (15 g / 250 g),
+  3:10, a bit sour — under-extracted; next change: finer grind.
+- Updated: [[coffee]] hub and [[index]] link the log; [[which-brewer-for-which-bean]] gap note now points to it.
+
 ## [2026-10-02] media | Images for all three topics
 
 - New: 36 freely licensed images from Wikimedia Commons in `Sources/media/` (12 per topic), each embedded under
