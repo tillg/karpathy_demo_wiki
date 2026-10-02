@@ -12,6 +12,9 @@ related: [fundamental-group, homotopy, poincare-conjecture, hairy-ball-theorem, 
 
 # Henri Poincaré (1854–1912)
 
+![Portrait photograph of Henri Poincaré](../../../Sources/media/topology-henri-poincare.jpg)
+*Image: Unknown author, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henri_Poincar%C3%A9-2.jpg)*
+
 French mathematician, born in Nancy, died in Paris. The founder of algebraic [[topology]].
 
 - ***Analysis situs*** (1895) and its sequels made topology rigorous: homology, [[homotopy]] and the

@@ -8,6 +8,9 @@ related: [coffee-ethiopia, coffee-kenya, coffee-brazil, geisha, sl28, bourbon, t
 
 # Coffee
 
+![Ripe Coffea arabica cherry on a branch](../../Sources/media/coffee-coffee.jpg)
+*Photo: Roger Burger, CC0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coffee_arabica_cherry.jpg)*
+
 From cherry to cup: where coffee grows, which plants it comes from, how it is processed and roasted, and how to brew it
 at home.
 

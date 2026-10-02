@@ -15,6 +15,9 @@ related: [v60, extraction, brew-ratio, which-brewer-for-which-bean]
 
 # Chemex
 
+![Chemex coffeemaker with a folded paper filter and brewed coffee](../../../Sources/media/coffee-chemex.jpg)
+*Photo: Hay Kranen, CC BY 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chemex_coffeemaker_with_filter.jpg)*
+
 Peter Schlumbohm's 1941 hourglass of glass with a wooden collar and leather tie — dripper and carafe in one, and in
 MoMA's collection.
 

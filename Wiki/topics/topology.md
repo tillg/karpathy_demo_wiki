@@ -8,6 +8,9 @@ related: [mathematics, topological-space, homeomorphism, fundamental-group, clas
 
 # Topology
 
+![Map of Königsberg with its seven bridges highlighted](../../Sources/media/topology-topology.jpg)
+*Image: Bogdan Giuşcă, CC BY-SA 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Konigsberg_bridges.png)*
+
 The branch of [[mathematics]] about properties that survive continuous deformation — stretching and bending, but
 no tearing or gluing. Branches: general (point-set), algebraic, differential and geometric topology.
 

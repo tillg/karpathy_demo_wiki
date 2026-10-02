@@ -17,6 +17,9 @@ related: [coffee, sl28, bourbon, coffee-processing, coffee-ethiopia]
 
 # Kenya
 
+![Rows of coffee shrubs on red soil near Kawaida Falls, Kiambu County, Kenya](../../../Sources/media/coffee-coffee-kenya.jpg)
+*Photo: Lebu Ayiga, CC BY 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coffee_plantation_near_Kawaida_Falls,_Cianda,_Kiambu_County_01.jpg)*
+
 Smallholder coffee organised in cooperatives: one example washing station in Murang'a (Central Kenya) serves 635
 members, each with under a hectare and 200–350 trees, at 1,500–1,630 m on red volcanic soil.
 

@@ -8,6 +8,9 @@ related: [classification-of-surfaces, poincare-conjecture, bernhard-riemann, hom
 
 # Manifold
 
+![Wireframe drawing of a torus](../../Sources/media/topology-manifold.jpg)
+*Image: GYassineMrabet, CC BY-SA 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Simple_Torus.svg)*
+
 **Intuition:** a space that looks flat if you zoom in far enough — like the Earth to someone standing on it.
 
 **Definition:** an n-dimensional manifold is a [[topological-space]] in which every point has a neighbourhood

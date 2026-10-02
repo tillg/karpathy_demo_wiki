@@ -14,6 +14,9 @@ related: [aeropress, chemex, grind-size, extraction, which-brewer-for-which-bean
 
 # French press
 
+![Glass French press with coffee grounds before brewing](../../../Sources/media/coffee-french-press.jpg)
+*Photo: Infrogmation, CC BY-SA 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:French_Press_coffee_making_10.jpg)*
+
 A tall cylinder with a mesh plunger. Coarse grounds steep in the water, then the plunger separates them.
 
 - **Recipe:** coarse grind ([[grind-size]]), ~55 g/L ([[brew-ratio]]), steep about 4 minutes (sources range 4–7).

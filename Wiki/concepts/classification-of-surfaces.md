@@ -8,6 +8,9 @@ related: [manifold, euler-characteristic, compactness, poincare-conjecture, coff
 
 # Classification of surfaces
 
+![Rendering of a Klein bottle immersed in three-dimensional space](../../Sources/media/topology-classification-of-surfaces.jpg)
+*Image: Aizenr, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Klein_bottle_green.png)*
+
 **Intuition:** a complete catalogue — every closed surface is a sphere with some handles, or with some "cross-caps".
 
 **Theorem:** every connected closed (compact, boundary-free) surface is homeomorphic to exactly one of:

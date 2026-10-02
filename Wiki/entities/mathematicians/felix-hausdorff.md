@@ -12,6 +12,9 @@ related: [topological-space, open-set, topology]
 
 # Felix Hausdorff (1868–1942)
 
+![Portrait photograph of Felix Hausdorff, 1913–1921](../../../Sources/media/topology-felix-hausdorff.jpg)
+*Image: Unknown author, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hausdorff_1913-1921.jpg)*
+
 German mathematician, born in Breslau (now Wrocław), died in Bonn.
 
 - ***Grundzüge der Mengenlehre*** (1914) gave the first definition of a [[topological-space]] and coined the term —

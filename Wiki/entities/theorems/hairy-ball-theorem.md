@@ -13,6 +13,9 @@ related: [euler-characteristic, henri-poincare, luitzen-brouwer, brouwer-fixed-p
 
 # Hairy ball theorem
 
+![Sphere combed with a tangent vector field that has a single pole](../../../Sources/media/topology-hairy-ball-theorem.jpg)
+*Image: RokerHRO, CC BY-SA 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hairy_ball_one_pole.jpg)*
+
 **Statement:** an even-dimensional sphere has no continuous tangent vector field that is nowhere zero. On a hairy
 ball there is always a cowlick.
 

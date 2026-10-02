@@ -8,6 +8,9 @@ related: [coffee-processing, extraction, cupping, coffee-ethiopia, espresso-mach
 
 # Roast levels
 
+![Light, medium and dark roasted coffee beans side by side](../../Sources/media/coffee-roast-levels.jpg)
+*Photo: Your Best Digs, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Light,_medium_and_dark_roasted_coffee_beans.jpg)*
+
 Roasting browns the beans (Maillard reaction, caramelisation); they lose 15–18 % of their weight and roughly double
 in volume.
 

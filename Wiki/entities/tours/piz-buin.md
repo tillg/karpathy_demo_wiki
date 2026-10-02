@@ -18,6 +18,9 @@ related: [silvretta, wiesbadener-hut, dreilaenderspitze]
 
 # Piz Buin (3,312 m)
 
+![Piz Buin seen from the Ochsentaler Gletscher](../../../Sources/media/mountains-piz-buin.jpg)
+*Photo: Svíčková, CC BY-SA 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Piz_Buin_vom_Ochsentaler_Gletscher.JPG)*
+
 The classic of the [[silvretta]]: from the Bielerhöhe to the [[wiesbadener-hut]], over the Ochsentaler Gletscher to the Buinlücke, short scramble to the summit.
 
 - **Snow:** north-facing glacier, reliable until May.

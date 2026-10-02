@@ -12,6 +12,9 @@ related: [brouwer-fixed-point-theorem, hairy-ball-theorem, topology]
 
 # L. E. J. Brouwer (1881–1966)
 
+![Portrait photograph of L. E. J. Brouwer](../../../Sources/media/topology-luitzen-brouwer.jpg)
+*Image: Unknown author, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Luitzen_Egbertus_Jan_Brouwer.jpg)*
+
 Dutch mathematician (Luitzen Egbertus Jan), born in Overschie, died in Blaricum. Did most of his topology in
 1909–1913:
 

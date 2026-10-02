@@ -18,6 +18,9 @@ related: [ortler-alps, rifugio-pizzini, similaun-vs-cevedale-late-april]
 
 # Cevedale (3,769 m)
 
+![Cevedale and the Vedretta del Pasquale seen from Rifugio Pizzini](../../../Sources/media/mountains-cevedale.jpg)
+*Photo: Svíčková, CC BY-SA 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cevedale,_Vedretta_del_Pasquale.JPG)*
+
 One of the great spring tours of the Italian Alps. From the Forni car park to the [[rifugio-pizzini]], then over the Vedretta del Cevedale to the summit. Huge open glacier slopes.
 
 - **Snow:** best in April and May, when the days are long and the snow has settled.

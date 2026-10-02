@@ -8,6 +8,9 @@ related: [coffee-kenya, coffee-brazil, coffee-ethiopia, roast-levels, cupping]
 
 # Coffee processing
 
+![Coffee cherries sun-drying on raised beds in Tarrazú, Costa Rica](../../Sources/media/coffee-coffee-processing.jpg)
+*Photo: Tarrazu at en.wikipedia, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coffee-cherries-afternoon-in-san-marcos-tarrazu-costa-rica.jpg)*
+
 How the seed is freed from the cherry and dried — a major flavour lever, before any roasting.
 
 | Process | What happens | Cup | Example |

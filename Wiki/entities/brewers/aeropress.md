@@ -14,6 +14,9 @@ related: [french-press, moka-pot, espresso-machine, which-brewer-for-which-bean]
 
 # AeroPress
 
+![Hand pressing the plunger of an AeroPress into a glass server](../../../Sources/media/coffee-aeropress.jpg)
+*Photo: Craft Coffee Spot, CC BY 2.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brewing_Coffee_with_AeroPress.jpg)*
+
 A manual, non-electric brewer: coffee steeps in a cylinder, then hand pressure on a plunger pushes moderately hot water
 through the grounds and a filter in about 30 seconds, one cup at a time.
 

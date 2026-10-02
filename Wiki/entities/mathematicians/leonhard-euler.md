@@ -12,6 +12,9 @@ related: [euler-characteristic, topology, classification-of-surfaces]
 
 # Leonhard Euler (1707–1783)
 
+![Pastel portrait of Leonhard Euler by Jakob Emanuel Handmann](../../../Sources/media/topology-leonhard-euler.jpg)
+*Image: Jakob Emanuel Handmann, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leonhard_Euler.jpg)*
+
 Swiss mathematician, born in Basel, died in St Petersburg. Counted as the first to think "topologically":
 
 - **Königsberg bridges** (presented 1735, published 1741): no walk crosses all seven bridges exactly once, because

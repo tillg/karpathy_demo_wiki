@@ -8,6 +8,9 @@ related: [continuity, homotopy, coffee-mug-and-donut, topological-invariants-ove
 
 # Homeomorphism
 
+![Five stills of a coffee mug continuously deforming into a torus](../../Sources/media/topology-homeomorphism.jpg)
+*Image: Lucas Vieira, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mug_and_Torus_morph.gif)*
+
 **Intuition:** a perfect rubber-sheet deformation — stretch and bend, but never cut or glue.
 
 **Definition:** a bijection f: X → Y that is [[continuity|continuous]] and whose inverse is continuous too. Spaces

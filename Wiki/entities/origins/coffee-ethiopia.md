@@ -16,6 +16,9 @@ related: [coffee, geisha, typica, coffee-processing, coffee-kenya, cupping]
 
 # Ethiopia
 
+![Coffee tree with green cherries on the shore of Lake Tana, Ethiopia](../../../Sources/media/coffee-coffee-ethiopia.jpg)
+*Photo: Zheim, CC BY-SA 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PC090346_coffee_Bahar_Dahr_Ethiopia.jpg)*
+
 The birthplace of Arabica: wild coffee still grows in the forests of Kaffa at about 1,400–2,100 m. Africa's largest
 producer and roughly the world's fifth. Coffee comes from wild forest trees, homestead gardens and plantations, almost
 all worked by hand.

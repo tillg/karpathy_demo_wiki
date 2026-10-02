@@ -8,6 +8,11 @@ related: [index]
 
 # Log
 
+## [2026-10-02] media | Images for all three topics
+
+- New: 36 freely licensed images from Wikimedia Commons in `Sources/media/` (12 per topic), each embedded under
+  the title of its page with author and licence; full list in `Sources/media/CREDITS.md`.
+
 ## [2026-10-02] ingest | Mathematics: topology
 
 - New: [[topology]] and [[mathematics]] hubs, 12 concepts (from [[topological-space]] to

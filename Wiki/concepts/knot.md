@@ -8,6 +8,9 @@ related: [homeomorphism, topological-invariants-overview, manifold]
 
 # Knot
 
+![Rendering of a trefoil knot](../../Sources/media/topology-knot.jpg)
+*Image: Jim.belk, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blue_Trefoil_Knot.png)*
+
 **Intuition:** a tangled string with its ends glued together, so it can't be untied without cutting.
 
 **Definition:** an embedding of a circle in three-dimensional space. Two knots are equal if one can be moved into the

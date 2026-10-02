@@ -18,6 +18,9 @@ related: [oetztal-alps, similaun, spring-snow, glacier-travel]
 
 # Wildspitze (3,768 m)
 
+![Wildspitze above the Mitterkar, seen from the path between Breslauer Hütte and Vernagthütte](../../../Sources/media/mountains-wildspitze.jpg)
+*Photo: Whgler, CC BY-SA 4.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wildspitze_Mitterkar.jpg)*
+
 Austria's second-highest summit, two days from Vent via the Breslauer Hütte and the Mitterkarferner; last metres on foot from the ski depot. About 1,900 m of ascent.
 
 - **Snow:** high glacier tour, good until mid-May. The upper slopes face south-east and soften early — start before

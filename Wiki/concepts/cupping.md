@@ -8,6 +8,9 @@ related: [roast-levels, coffee-processing, coffee-ethiopia, geisha, coffee]
 
 # Cupping
 
+![Taster slurping from a spoon at a coffee cupping table](../../Sources/media/coffee-cupping.jpg)
+*Photo: Visitor7, CC BY-SA 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coffee_Cupping-1.jpg)*
+
 The professional way to taste coffees side by side: freshly ground coffee steeped with water just off the boil, sniffed
 deeply, then slurped from a spoon (4–5 ml) so it sprays across the palate.
 

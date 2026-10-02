@@ -12,6 +12,9 @@ related: [euler-characteristic, fundamental-group, topology]
 
 # Emmy Noether (1882–1935)
 
+![Portrait photograph of Emmy Noether](../../../Sources/media/topology-emmy-noether.jpg)
+*Image: Unknown author, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Noether.jpg)*
+
 German mathematician, born in Erlangen, died in Bryn Mawr (USA). Founder of modern abstract algebra.
 
 Her mark on [[topology]]: around 1925 she pointed out that the numbers topologists counted (Betti numbers, torsion

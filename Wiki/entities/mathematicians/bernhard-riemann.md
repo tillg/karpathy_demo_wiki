@@ -12,6 +12,9 @@ related: [manifold, classification-of-surfaces, topology]
 
 # Bernhard Riemann (1826–1866)
 
+![Portrait photograph of Bernhard Riemann](../../../Sources/media/topology-bernhard-riemann.jpg)
+*Image: Unknown author, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Georg_Friedrich_Bernhard_Riemann.jpeg)*
+
 German mathematician, born in Breselenz (Hanover), died in Selasca (Italy).
 
 - **Riemann surfaces** (thesis 1851): surfaces built so that multi-valued complex functions become single-valued;
