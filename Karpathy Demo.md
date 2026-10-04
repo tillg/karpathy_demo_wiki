@@ -89,7 +89,7 @@ The app renders what Obsidian renders. Open these pages in Read mode:
 | Properties (frontmatter) | `---` block at the top | [[aeropress]] (method, filter, brew time …) |
 | Tables, also wide ones that scroll sideways | `\| a \| b \|` | [[grind-size]], the tours table in [[index]] |
 | Callouts | `> [!warning] Title` | [[avalanche-safety-kit]], and the tip at the top of this page |
-| Task lists | `- [x]` / `- [ ]` | [[avalanche-safety-kit#Checklist|avalanche-safety-kit › Checklist]] |
+| Task lists | `- [x]` / `- [ ]` | [[avalanche-safety-kit]], section "Checklist" |
 | Highlights | `==text==` | [[brew-ratio]] |
 | Footnotes | `[^1]` | [[brew-ratio]] (after "Gold Cup default") |
 | Hidden comments | `%% … %%` | [[brew-ratio]]: hidden in Read mode, visible in Write mode |
