@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [mathematics, topology]
-updated: 2026-10-02
+updated: 2026-10-04
 sources: [2026-10-02-wikipedia-topological-space.md, 2026-10-02-wikipedia-topology.md, 2026-10-02-notes-topology-study-log.md]
 related: [continuity, homotopy, coffee-mug-and-donut, topological-invariants-overview, knot]
 ---
@@ -10,6 +10,10 @@ related: [continuity, homotopy, coffee-mug-and-donut, topological-invariants-ove
 
 ![Five stills of a coffee mug continuously deforming into a torus](../../Sources/media/topology-homeomorphism.jpg)
 *Image: Lucas Vieira, Public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mug_and_Torus_morph.gif)*
+
+The whole deformation as a video (the same public-domain animation):
+
+![[topology-mug-torus-morph.mp4|320]]
 
 **Intuition:** a perfect rubber-sheet deformation — stretch and bend, but never cut or glue.
 

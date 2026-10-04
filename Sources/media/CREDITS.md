@@ -44,3 +44,8 @@
 - `coffee-coffee-kenya.jpg` — [[coffee-kenya]] — Lebu Ayiga — CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Coffee_plantation_near_Kawaida_Falls,_Cianda,_Kiambu_County_01.jpg
 - `coffee-coffee-ethiopia.jpg` — [[coffee-ethiopia]] — Zheim — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:PC090346_coffee_Bahar_Dahr_Ethiopia.jpg
 - `coffee-coffee.jpg` — [[coffee]] — Roger Burger — CC0 — https://commons.wikimedia.org/wiki/File:Coffee_arabica_cherry.jpg
+
+## Made for this vault
+
+- `coffee-brew-card.pdf` — [[brew-ratio]] — written from this vault's coffee pages (example data) — CC0
+- `topology-mug-torus-morph.mp4` — [[homeomorphism]] — Lucas Vieira, converted from GIF to MP4 — Public domain — https://commons.wikimedia.org/wiki/File:Mug_and_Torus_morph.gif

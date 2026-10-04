@@ -1,7 +1,7 @@
 ---
 type: topic
 tags: [index]
-updated: 2026-10-02
+updated: 2026-10-04
 sources: []
 related: [log, mountains, coffee, mathematics]
 ---
@@ -9,6 +9,8 @@ related: [log, mountains, coffee, mathematics]
 # Index
 
 Catalog of the wiki. Start here. Topics: [[mountains]], [[coffee]], [[mathematics]].
+
+New to the app? [[Karpathy Demo]] is a guided tour of its features, using this vault.
 
 ## Topics
 

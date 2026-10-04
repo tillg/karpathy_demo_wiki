@@ -1,12 +1,21 @@
 ---
 type: topic
 tags: [log]
-updated: 2026-10-02
+updated: 2026-10-04
 sources: []
 related: [index]
 ---
 
 # Log
+
+## [2026-10-04] new | Karpathy Demo guide, media examples
+
+- New: [[Karpathy Demo]] (top level): a tour of the app's features with links to example pages.
+- New media: `coffee-brew-card.pdf` (embedded in [[brew-ratio]]), `topology-mug-torus-morph.mp4` (embedded in
+  [[homeomorphism]]); credits in `Sources/media/CREDITS.md`.
+- Updated: [[brew-ratio]] (picture, highlight, footnote, comment, brew card), [[avalanche-safety-kit]] (callout,
+  checklist).
+- `AGENTS.md`: the AI may now use the web when web access is on, and save web pages as sources.
 
 ## [2026-10-02] new | Coffee: brew log started
 

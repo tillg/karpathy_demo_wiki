@@ -43,8 +43,11 @@ with `[[wikilinks]]`. If a page you link to doesn't exist yet, leave the link: i
   touches, add new pages to `Wiki/index.md`, add an entry on top of `Wiki/log.md`. Note contradictions with
   existing pages on both pages instead of overwriting.
 - **Answer a question:** start from `Wiki/index.md`, read the relevant pages, answer with `[[links]]` to the pages
-  you used. Say what the vault doesn't know. You have no web access: for current conditions (snow, avalanche
-  danger, hut opening) tell the user to check the official bulletins.
+  you used. Say what the vault doesn't know. If web access is on, you may search the web and fetch pages to fill
+  the gap: say which answers come from the web and give the URLs. For current conditions (snow, avalanche danger,
+  hut opening) still point the user to the official bulletins.
+- **Web pages as sources:** to add a web page to the vault, fetch it, then save a summary in your own words (with
+  the URL and the date) as a new file in `Sources/` and ingest it as above.
 - **New topic:** create `Wiki/topics/<topic>.md` as its hub, use the existing folders, add a section to
   `Wiki/index.md`.
 - **Lint:** report dead links, orphan pages, pages without sources, `done` fields that disagree with the tour log,

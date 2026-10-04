@@ -9,3 +9,5 @@ Web sources are summarised in our own words and link to the original page.
 
 **All content is example data.** Tours, altitudes and seasons are approximate and only here to show how the app
 works. Mountain pages are not route, snow or avalanche advice — check current conditions and a guidebook before going.
+
+New to the app? Start with [Karpathy Demo](Karpathy%20Demo.md), a guided tour of its features using this vault.
