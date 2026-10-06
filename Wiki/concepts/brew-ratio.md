@@ -8,7 +8,7 @@ related: [extraction, grind-size, v60, chemex, french-press]
 
 # Brew ratio
 
-![[coffee-v60.jpg|320]]
+![[coffee-v60.jpg|520]]
 
 Coffee to water, by weight — ==weigh both, don't use scoops==.
 
