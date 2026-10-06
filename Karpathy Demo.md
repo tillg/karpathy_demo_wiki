@@ -50,11 +50,23 @@ Open **⚙ Vaults & settings**:
 ## 4. Files and notes
 
 - **File tree:** folders first, collapsed until you open them. Try `Wiki → entities → brewers`.
+- **Sort** (⇅ next to *Notes*): by **Name** (A → Z or Z → A) or by **Last changed** (newest or oldest first). Under
+  *Last changed*, folders with recent changes inside move up, so you see where the activity is without opening
+  anything.
+- **Filter** (the funnel): show only notes changed by the **AI** or by a **Human**. A chip under *Notes* says a
+  filter is on; its ✕ turns it off. Under a filter, *Last changed* means the last change by that author: *Human +
+  newest first* puts your own latest edit on top, even if the AI touched the note after you. Your choices are
+  remembered on this device.
 - **New note:** the ✎ button next to *Notes*. **Delete** is the bin icon; you can undo a delete until you commit.
 - **Autosave:** every edit is saved 1.5 s after you stop typing. The footer says *Saving… / Saved*. If the
   connection drops, your edit waits on the device and is saved when you're back online.
 - **Live updates:** when the AI or a pull from GitHub changes the note you're reading, it reloads by itself, unless
   you have unsaved changes.
+
+*Try it:* sort by **Last changed, newest first** and open the top folders: the last pages written show first. Then
+do chapter 12's brew-log prompt, set the filter to **AI**, and the tree shows just what the AI changed. (The AI
+filter only knows changes from version 0.0.11 on; before the AI's first edit it says "No notes changed by the AI
+yet".)
 
 ## 5. Write mode and Read mode
 
