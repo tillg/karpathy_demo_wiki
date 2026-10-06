@@ -1,7 +1,7 @@
 ---
 type: topic
 tags: [guide, demo]
-updated: 2026-10-04
+updated: 2026-10-06
 sources: []
 related: [index, log, brew-ratio, homeomorphism, avalanche-safety-kit, aeropress]
 ---
@@ -170,6 +170,35 @@ This is the point of the vault: you add raw material, and the AI keeps the wiki 
   [[topological-invariants-overview]].
 - **Lint:** *"Lint the wiki"* reports dead links (such as [[homology]]), orphan pages and contradictions.
 
+### Commands
+
+Skills are ready-made instructions for the AI. Type **/** in the chat box and a list of them opens, each with what it
+does, filtered as you type. Pick one and add what it should work on, e.g. `/research …`. A new, empty chat also shows
+the commands as one-tap chips; the ones you used last in this vault come first. A chip only fills in the command and
+sends nothing.
+
+- Commands tagged **app** come with karpathy.app and work in every vault.
+- Commands tagged **vault** are the vault's own skills in `.agents/skills/`. They sync through git and work in
+  Claude Code on the Mac too.
+- A vault that still keeps its skills in Claude Code's layout (`CLAUDE.md`, `.claude/skills/`) is moved to
+  `AGENTS.md` and `.agents/skills/` when you open it. A notice lists what moved; **Review** shows the changes, which
+  wait for your commit like any other edit.
+
+### Deep research
+
+`/research <topic>` researches a topic on the web and writes it into the wiki, in two steps:
+
+1. The AI reads what the wiki already knows, looks around the web a little, and writes a **plan note** in
+   `Research/` with 3–6 open questions, then stops.
+2. Edit the note if you like and reply **go**. The AI searches the web, saves each useful page as a source in
+   `Sources/` (a summary with short quotes and the address), writes or updates the wiki pages that cite them, and
+   ticks off the questions. Reply **continue** for more (at most 8 sources per answer).
+
+`/research Research/<plan note>` picks a plan up again, in any chat, days later. It needs **Web access** (chapter 13).
+
+*Try it:* type `/` in a new chat, pick **research** and add *pour-over grind size*. Read the plan note, reply
+**go**, then open the new pages from the chips.
+
 Nothing the AI does is final: its edits wait in **Changes** until you commit (chapter 14).
 
 ## 13. The AI on the web
@@ -179,11 +208,14 @@ With **Web access** on (⚙ → Settings; on by default), the AI can search the 
 - *"What's the latest news on the Wildspitze glacier? Search the web."* shows a chip `searched the web: "…"`.
 - *"Read https://en.wikipedia.org/wiki/AeroPress and add anything new to the AeroPress page."* shows a chip
   `fetched en.wikipedia.org/wiki/AeroPress`, and tapping the chip opens the page.
+- *"Open the Wikipedia page on the AeroPress for me"* (with the address in the chat) shows an **Open** chip
+  `open en.wikipedia.org/…`. Tap it and the page opens in a new browser tab; the AI itself reads nothing. This works
+  with Web access off too, because your browser loads the page, not the server.
 
 Safety rules:
 
-- The AI may only open addresses that are already in the chat: pasted by you, or found in a note or a search
-  result. It can't make up an address to send your notes somewhere.
+- The AI may only read or offer addresses that are already in the chat: pasted by you, or found in a note or a
+  search result. It can't make up an address to send your notes somewhere.
 - At most 20 searches and 20 page reads per answer.
 - Switch Web access off and the AI has no web tools at all.
 
