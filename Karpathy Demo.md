@@ -46,6 +46,12 @@ Open **⚙ Vaults & settings**:
 - **Switch vault** from the vault menu under the logo. Your open note is saved first.
 - **Settings:** the AI model, the GitHub token (**Test token** checks it without saving), the commit reminder, and
   **Web access** (see chapter 13).
+- **The model:** the server's settings files choose a default model; below the model field the app shows
+  **Default: …**. A model you type there overrides the default for everyone until you tap **Use default** and save.
+  When the server's default changes, everyone who hasn't overridden it gets the new one.
+
+*Try it:* open the settings, type another model the server offers, **Save**, then tap **Use default** and **Save**
+again: the line under the field says which model is the default.
 
 ## 4. Files and notes
 
