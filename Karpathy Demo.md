@@ -1,7 +1,7 @@
 ---
 type: topic
 tags: [guide, demo]
-updated: 2026-10-06
+updated: 2026-10-08
 sources: []
 related: [index, log, brew-ratio, homeomorphism, avalanche-safety-kit, aeropress]
 ---
@@ -91,6 +91,15 @@ opens in Read, even after a reload. Switching modes keeps your place in the note
 - **Properties link too:** in Read mode, the `related` and `sources` values in a page's properties table are links
   ([[aeropress]] has a big one).
 - **External links** open in a new tab. **Back** returns you to the same scroll position, after any link.
+
+### The graph
+
+The graph button (the hexagon of dots in the sidebar header) shows every note as a dot in 3D and every link between two
+notes as a line. Well-linked pages are bigger dots; the open note is orange. [[index]] and [[log]] sit in the middle,
+because almost every page links to them.
+
+*Try it:* open [[aeropress]], tap the graph button, drag to turn the graph, pinch or scroll to zoom. Hover a dot to see
+its name, tap one to open that note.
 
 ## 7. Obsidian-style Markdown
 
@@ -259,7 +268,7 @@ While a conflict is open, the AI can read but not change notes.
 
 ## 17. What it can't do yet
 
-- No graph view, canvas or plugins.
+- No canvas or plugins.
 - No renaming or moving of notes, and no note transclusion: `![[Other note]]` shows a link.
 - Shell commands and Python scripts in AI skills don't run.
 
