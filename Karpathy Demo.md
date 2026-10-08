@@ -81,6 +81,36 @@ opens in Read, even after a reload. Switching modes keeps your place in the note
 
 *Try it:* open [[topology]], scroll halfway down, switch Write ↔ Read, and you stay on the same paragraph.
 
+### Outline and note info
+
+The list button in the note header shows the page's **outline**: its headings, indented by level. On the phone it is
+a sheet from the bottom, on the iPad and the desktop a panel at the top right. Tap a heading and the page scrolls
+there, in Write and in Read mode; the cursor doesn't move and the keyboard stays closed. While you scroll, the
+section you are in is marked. On a wide screen the panel stays open, as a table of contents.
+
+At the bottom: **note info**, the words, characters and reading time of the page without its properties. Select
+some text and it counts the selection instead.
+
+*Try it:* open [[index]] (a long page with many sections), tap the list button, tap the last heading. Then select a
+paragraph and open the outline again: it says "Selection: … words".
+
+### Properties
+
+In Write mode a page's properties (the block between the `---` lines) show as a **form** above the text: `type` as a
+picker, `updated` as a date with a **Today** button, `tags` and `related` as chips you add to (link chips suggest
+note names) and remove with ✕. A change edits only that property's line, so git shows a one-line diff, and the
+editor's undo takes it back. **YAML** shows the raw lines instead; the app remembers your choice. **+ Property**
+adds a property: the ones the wiki schema expects but the page lacks are offered first.
+
+On wiki pages the form checks the properties against the wiki schema (`type`, `tags`, `updated` are required;
+`confidence` is high, medium or low; a value must have the right type; wikilinks in lists need quotes) and flags
+what doesn't fit. It never changes
+a value by itself. A vault can bring its own rules in `.karpathy/schema.json`.
+
+*Try it:* open [[aeropress]] in Write mode, tap **Today** next to `updated`, and add a note to `related` from the
+suggestions. Then tap **YAML**, change `type: entity` to `type: person`, and switch back with **Properties form**:
+`type` is flagged "must be entity, concept, topic, source or synthesis". Undo puts everything back.
+
 ## 6. Links
 
 - **Wikilinks** `[[page]]` open a page by its name, wherever it lives: [[aeropress]].
