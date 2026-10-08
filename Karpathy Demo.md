@@ -135,6 +135,16 @@ Notes show their media inline, as Obsidian does. These pages hold it:
 4. Ask the chat: *"Reply with the AeroPress photo as an embed."* An embed in an AI answer shows the picture in the
    chat too.
 
+**The AI can add media from the web.** With Web access on (and no conflict), ask it to put a picture, video, audio
+file or PDF from an address into a note. It saves the file as a new file next to the note and embeds it with
+`![[path]]`; the chat shows a changed chip for the file and one for the note. It never overwrites a file, and only
+addresses already in the chat work (see [section 13](#13-the-ai-on-the-web)). The result is an uncommitted change like
+any other.
+
+*Try it:* open [[emmy-noether]], then ask the chat: *"Add a second picture of Emmy Noether to this note, from
+https://upload.wikimedia.org/wikipedia/commons/9/9e/Emmy_noether_postcard_1915.jpg"* Check the new file in **Changes**, then discard it or
+keep it.
+
 Details: files over 50 MB load only when you tap **Load anyway**. Images from other websites are not loaded
 (privacy: no tracking pixels). Offline, media shows a placeholder card.
 
@@ -237,7 +247,7 @@ Safety rules:
 
 - The AI may only read or offer addresses that are already in the chat: pasted by you, or found in a note or a
   search result. It can't make up an address to send your notes somewhere.
-- At most 20 searches and 20 page reads per answer.
+- At most 20 searches and 20 page reads per answer; saving a file from an address counts as a page read.
 - Switch Web access off and the AI has no web tools at all.
 
 ## 14. Changes, commit and push
@@ -271,6 +281,7 @@ While a conflict is open, the AI can read but not change notes.
 - No canvas or plugins.
 - No renaming or moving of notes, and no note transclusion: `![[Other note]]` shows a link.
 - Shell commands and Python scripts in AI skills don't run.
+- The AI saves a picture next to the note: it can't move a note into its own folder, copy a chat attachment into the vault, or save SVG.
 
 ---
 
