@@ -124,12 +124,17 @@ suggestions. Then tap **YAML**, change `type: entity` to `type: person`, and swi
 
 ### The graph
 
-The graph button (the hexagon of dots in the sidebar header) shows every note as a dot in 3D and every link between two
-notes as a line. Well-linked pages are bigger dots; the open note is orange. [[index]] and [[log]] sit in the middle,
-because almost every page links to them.
+The graph button (the hexagon of dots in the sidebar header) shows the graph in the note pane: every note of the
+`Wiki` folder as a dot in 3D and every link between two notes as a line. "Show all" adds the notes outside `Wiki`
+(the sources' raw files, this guide). Well-linked pages are bigger dots; the colour is the page's `type` (entities
+blue, concepts, sources, topics, syntheses each their own colour, see the legend); the open note is orange.
+[[index]] and [[log]] sit in the middle, because almost every page links to them. While it loads, a small graph
+breathes; once built, the graph stays for the session, so the second open is instant.
 
-*Try it:* open [[aeropress]], tap the graph button, drag to turn the graph, pinch or scroll to zoom. Hover a dot to see
-its name, tap one to open that note.
+*Try it:* open [[aeropress]], tap the graph button, drag to turn the graph, pinch or scroll to zoom. Untick `entity`
+in the legend: only concepts, sources, topics and syntheses are left (the app remembers it). Tap "Show all",
+then close the graph (✕ or Back) — you are back on [[aeropress]] — and open it again: no waiting. Tap a dot to open
+that note.
 
 ## 7. Obsidian-style Markdown
 
