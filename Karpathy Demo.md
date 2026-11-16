@@ -604,7 +604,8 @@ VS Code's. On the phone it fills the screen and adds a key bar (Esc, Tab, arrows
   deploy. Your Claude login, `~/.claude` and shell history live in a volume and survive deploys.
 - The terminal has no GitHub push credentials and none of the app's secrets, and **git is read-only there**: `git
   status`, `log` and `diff` work, `commit`, `pull` and `push` don't. Change files as you like (they show up in
-  **Changes**), but commit and push from the app.
+  **Changes**), then commit and push from the app, or in the terminal with `vault commit -m "message"` (same as the
+  app's Commit button, secret scan included; `vault status`, `vault pull`). Claude Code in the terminal knows it.
 - Open the same session on the iPhone while it runs on the Mac: both show everything as it happens and you can type
   on either. The shell takes the size of the device you last typed in or tapped.
 - The shell is zsh with oh-my-zsh and a powerlevel10k prompt, like a Mac terminal: ↑ goes back through your history,
