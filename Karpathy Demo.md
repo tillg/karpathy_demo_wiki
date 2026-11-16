@@ -607,6 +607,8 @@ VS Code's. On the phone it fills the screen and adds a key bar (Esc, Tab, arrows
   **Changes**), but commit and push from the app.
 - Open the same session on a second device or tab and the first one shows "Opened on another device or tab" with
   **Use here** to take it back.
+- Click a URL to open it, also a long one spread over several rows (like Claude Code's login link). Selecting text
+  copies it at once, like in the chat; a long URL copies as one line.
 
 *Try it:* open the Terminal and run `ls`: you are in this vault's folder. Run `git status` and see the same
 uncommitted changes as in **Changes**. Run `rg -il aeropress .` to find the notes that mention [[aeropress]]. Then run
