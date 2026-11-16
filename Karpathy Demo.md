@@ -1,7 +1,7 @@
 ---
 type: topic
 tags: [guide, demo]
-updated: 2026-11-01
+updated: 2026-11-16
 sources: []
 related: [index, log, brew-ratio, homeomorphism, avalanche-safety-kit, aeropress]
 ---
@@ -591,7 +591,29 @@ yourself an Instagram post link to the vault's address; between 08:00 and 23:00 
 Tap **Ingest** next to `Input · 1`, watch the chat write [[moka-pot-basics]] and move the folder, then look at the
 new page and at [[log]].
 
-## 18. What it can't do yet
+## 18. Terminal
+
+The **Terminal** button in the sidebar header (or **Ctrl+`**) opens a real shell on the server, in a bottom panel like
+VS Code's. On the phone it fills the screen and adds a key bar (Esc, Tab, arrows, Ctrl-C).
+
+- Each tab is a bash that starts in the folder of the vault you have open and can see every vault. `git`, `rg`, `curl`
+  and **Claude Code** are installed. **+** opens another shell (up to 4), **✕** ends one, the chevron hides the panel
+  and leaves the shells running.
+- Shells keep running when you close the panel, reload, close the browser or switch device: open the Terminal again
+  and you are back in the same session with its last output. They end on ✕, when the shell exits, or at the next
+  deploy. Your Claude login, `~/.claude` and shell history live in a volume and survive deploys.
+- The terminal has no GitHub push credentials and none of the app's secrets, and **git is read-only there**: `git
+  status`, `log` and `diff` work, `commit`, `pull` and `push` don't. Change files as you like (they show up in
+  **Changes**), but commit and push from the app.
+- Open the same session on a second device or tab and the first one shows "Opened on another device or tab" with
+  **Use here** to take it back.
+
+*Try it:* open the Terminal and run `ls`: you are in this vault's folder. Run `git status` and see the same
+uncommitted changes as in **Changes**. Run `rg -il aeropress .` to find the notes that mention [[aeropress]]. Then run
+`claude` (the first time, log in with the URL and code it prints) and ask it which notes in `Wiki/` have no links
+yet. Leave the panel with the chevron, reload the page and reopen the Terminal: the session is still there.
+
+## 19. What it can't do yet
 
 - No canvas or plugins.
 - No renaming or moving of notes, and no note transclusion: `![[Other note]]` shows a link.
