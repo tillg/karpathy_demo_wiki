@@ -605,8 +605,8 @@ VS Code's. On the phone it fills the screen and adds a key bar (Esc, Tab, arrows
 - The terminal has no GitHub push credentials and none of the app's secrets, and **git is read-only there**: `git
   status`, `log` and `diff` work, `commit`, `pull` and `push` don't. Change files as you like (they show up in
   **Changes**), but commit and push from the app.
-- Open the same session on a second device or tab and the first one shows "Opened on another device or tab" with
-  **Use here** to take it back.
+- Open the same session on the iPhone while it runs on the Mac: both show everything as it happens and you can type
+  on either. The shell takes the size of the device you last typed in or tapped.
 - Click a URL to open it, also a long one spread over several rows (like Claude Code's login link). Selecting text
   copies it at once, like in the chat; a long URL copies as one line.
 
